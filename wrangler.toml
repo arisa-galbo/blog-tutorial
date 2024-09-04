@@ -1,0 +1,6 @@
+name = "test04"
+type = "typescript"
+account_id = "3361ff698565b376390516db401325bc"
+workers_dev = true
+main = "./app/routes/_index.tsx"
+node_compat = true
